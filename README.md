@@ -1,6 +1,6 @@
 # AI Harness
 
-Skill as a Service（SAAS）
+Skill as a Service（SAAS, project-specific term）
 
 ## Goal
 
@@ -11,7 +11,7 @@ Provide a jar package to quickly enable AI Agent access capabilities for users.
 
 ### API to Skill
 
-扫描所有 Controller，并将每一个接口转换为 AI Agent 可以直接调用的 Skill。
+扫描所有 Controller ，并将每一个接口转换为 AI Agent 可以直接调用的 Skill。
 Scan all controllers and convert each API endpoint into a skill that AI agents can invoke directly.
 
 ### Project capability analysis
