@@ -4,7 +4,7 @@ Skill as a Service（SAAS）
 
 ## Goal
 
-提供一个 jar 包，帮助用户快速提供 AI Agent 访问能力。
+提供一个 jar 包，帮助用户快速实现 AI Agent 访问能力。
 
 ## Features
 
