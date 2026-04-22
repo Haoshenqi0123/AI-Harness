@@ -1,6 +1,6 @@
 # AI Harness
 
-Skill as a Service（SAAS）。
+Skill as a Service（SAAS）
 
 ## Goal
 
@@ -12,6 +12,6 @@ Skill as a Service（SAAS）。
 
 扫描所有 Controller，并将每一个接口转换为 AI Agent 可以直接调用的 Skill。
 
-### Project compact to AI agent
+### Project capability to AI agent
 
 扫描项目代码，分析其能力，并自动生成项目使用说明，方便 AI Agent 理解与接入。
